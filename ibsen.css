@@ -9,7 +9,7 @@
     font-size: large;
     font-family: Times;
     font-style: bold;
-    background-color: rgb(177, 234, 22);
+    background-color: rgb(103, 110, 83);
 }
 
 .direction:hover {
@@ -60,4 +60,12 @@ h4:hover {
     border: 2%;
     font-size: large;
 
+}
+
+.navbar {
+background-color: aqua;
+}
+
+.navbar a:hover{
+    background-color: beige;
 }
